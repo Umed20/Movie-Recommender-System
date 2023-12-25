@@ -3,6 +3,8 @@
 ## Overview
 This project is an end-to-end movie recommender system implemented using machine learning techniques. The system uses the TMDB 5000 movies dataset from Kaggle and leverages vectorization to recommend similar movies. Additionally, a Streamlit web app has been created to provide a user-friendly interface for interacting with the recommender system.
 
+## Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 ## Features
 - **Machine Learning Model:** Utilizes vectorization techniques to recommend movies based on user preferences.
 - **TMDB Dataset:** The project uses the TMDB 5000 movies dataset from Kaggle, which includes information about movies, such as genres, cast, and user ratings.
