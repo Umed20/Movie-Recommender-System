@@ -36,13 +36,7 @@ This project is an end-to-end movie recommender system implemented using machine
 4. **Access the App:**
    Open your browser and navigate to `http://localhost:8501` to use the movie recommender system.
 
-## Contributing
-If you'd like to contribute to this project, please follow these guidelines:
-- Fork the repository.
-- Create a new branch for your feature: `git checkout -b feature-name`.
-- Commit your changes: `git commit -m 'Add a new feature'`.
-- Push to the branch: `git push origin feature-name`.
-- Submit a pull request.
+
 
 
 
