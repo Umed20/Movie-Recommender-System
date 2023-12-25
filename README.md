@@ -13,7 +13,6 @@ This project is an end-to-end movie recommender system implemented using machine
 ## Project Structure
 - **`data/`:** Contains the dataset used for training and testing.
 - **`notebooks/`:** Jupyter notebooks for data exploration, model training, and evaluation.
-- **`src/`:** Source code for the machine learning model and Streamlit app.
 - **`requirements.txt`:** Lists the dependencies needed to run the project.
 
 ## How to Use
@@ -30,7 +29,7 @@ This project is an end-to-end movie recommender system implemented using machine
 
 3. **Run the Streamlit App:**
     ```bash
-    streamlit run src/app.py
+    streamlit run app.py
     ```
 
 4. **Access the App:**
